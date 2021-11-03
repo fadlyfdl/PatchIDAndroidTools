@@ -1,4 +1,4 @@
-PatchID Android Tools v1.0.1 Beta 2 (04-11-2021)
+PatchID Android Tools v1.0.0 Beta 3 (04-11-2021)
 
 Features:
 Decompile/Compile
