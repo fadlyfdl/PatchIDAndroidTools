@@ -1,0 +1,39 @@
+PatchID Android Tools v1.0.1 Beta 2 (04-11-2021)
+
+Features:
+Decompile/Compile
+Decomile and compile APK, DEX and JAR files, with SPACE, symbols and germany, danish, swedish etc... characters support. Can cancel during operation
+
+Sign/Zipalign
+Signing and ZipAligning of APK/JAR files. Can cancel during operation
+
+Extract/Zip APK
+Extract and zip APK with 7z Compression-level 0-9. Can cancel during operation
+
+APK Infomation
+Show APK infomation with icon using aapt dump badging and link to Play Store
+
+Framework
+Install your framework and manage framework paths
+
+Log output
+View your logs to find errors.
+
+Options
+Change options of tool, decompile, compile, sign and zipalign. Options: Java heap, Apktool version, apksigner version, directories, java path and more
+All options and textboxes are saved as config.xml and will load on launch
+Quick options on main.
+
+Apktool.jar version selection
+Can switch to other versions of apktool.jar on options
+Add other apktool.jar in "Apktool" folder
+
+Automatic Translate (Online Google Translate or Offline Dictionary)
+Create new localization folder by copying "original" values
+Edit values
+Edit arrays
+Save result in XML with original localization in comments
+Create backup file of localization
+Browsing in localization XML as in folders structure
+Add localization key or array item
+Delete XML files directly from GUI
