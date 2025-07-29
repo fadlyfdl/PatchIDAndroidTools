@@ -1,7 +1,12 @@
 {
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.0",
+  "latest_build_number": "3",
   "min_required_version": "1.0.0",
+  "min_build_number": "1",
   "update_url": "https://wa.me/6287816561360",
-  "release_notes": "Perbaikan bug dan peningkatan performa\n\nJika Notifikasi ini muncul klik \"Nanti\" saja, karena saat ini sedang dalam proses pengembangan.\n\nUntuk pengisian foto sesuaikan saja.\nJangan mengisi foto SIM atau STNK dengan foto KR.\nDan Foto Opsional untuk foto lain-lain.\n\nInfo: FadlyFDL",
+  "update_url_v8a": "https://github.com/fadlyfdl/PatchIDAndroidTools/raw/refs/heads/main/lapbbais-arm64-v8a.apk",
+  "update_url_v7a": "https://github.com/fadlyfdl/PatchIDAndroidTools/raw/refs/heads/main/lapbbais-armeabi-v7a.apk",
+  "release_notes": "Perbaikan bug dan peningkatan performa.\nPenambahan fitur urutkan atau sorting data laporan.\nPenambahan fitur pencarian data laporan.",
+  "info_notes": "Untuk pengisian foto sesuaikan saja.\nJangan mengisi foto SIM atau STNK dengan foto KR.\nDan Foto Opsional untuk foto lain-lain.\n\nInfo: FadlyFDL",
   "force_update": false
 }
